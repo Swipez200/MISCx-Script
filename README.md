@@ -1,6 +1,6 @@
 # MISCx-Script
 
-Solara or VolcanoR2 Works best with this.
+Valex or Solara or VolcanoR2 Works best with this.
 
 Updates will be coming as of now it is a simple esp and aimbot script.
 
